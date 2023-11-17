@@ -1,0 +1,137 @@
+*{
+   margin: 0;
+   padding: 0;
+  
+}
+.container{
+    max-width: 1300px;
+    margin: 0 auto;
+
+}
+.heder{
+    width: 100%;
+    height: 130px;
+    background-image: url('//static-basket-01.wb.ru/vol0/marketing/shapkafon/shapka-fon_black-friday_2023.jpg');
+
+}
+.heder_top ul{
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    list-style: none;
+    color: #fff; 
+    padding-top: 20px;
+}
+
+.li_name{
+    background-color: fuchsia;
+    border-radius: 20px;
+    padding: 7px 5px;
+}
+.li_name2{
+    background-color: rgb(215, 185, 11);
+    border-radius: 20px;
+    padding: 7px 5px;
+}
+.sub_header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.sub_header_left{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+.sub_header1 img{
+    width: 40px;
+}
+.sub_header2 P{
+    color: white;
+    font-size: 28px;
+}
+.sub_header3 input{
+    width: 700px;
+    height: 37px;
+    border-radius: 30px;
+    padding: 0 0 0 25px;
+    background:  transparent;
+    background: #ffffff33;
+    border: none;
+    border-bottom: 1px solid #444;
+    cursor: pointer;
+}
+button {
+    color: #fff;
+    border-radius: 30px;
+    background:  transparent;
+}
+button:hover {
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: .3s;
+    
+  }
+
+
+.sub_header_right{
+    display: flex;
+    gap: 25px;
+
+}
+.sub_header4 img{
+    width: 37px;
+}
+.sub_header5 img{
+    width: 37px;
+}
+.sub_header6 img{
+    width: 37px;
+}
+
+.sub_header4 p {
+    color: #fff;
+    width: 15px;
+}
+
+.sub_header5 p {
+    color: #fff;
+    width: 15px;
+
+}
+
+.sub_header6 p {
+    color: #fff;
+    width: 15px;
+
+}
+
+.sub_header_right p {
+    display: flex;
+    flex-direction: row;
+    font-size: 15px;
+    font-size: 14px;
+    line-height: 20px;
+    color: rgba(255,255,255,.6);
+    text-decoration: none;
+    cursor: pointer;
+    transition: color .3s ease 0s;
+}
+
+.heder_card {
+    margin: 0 auto;
+}
+
+main{
+    max-width: 1300px;
+    margin: 0 auto;
+
+}
+
+.banner_container img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height: 120px;
+    border-radius: 20px;
+}
