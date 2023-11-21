@@ -120,6 +120,11 @@ button:hover {
 .heder_card {
     margin: 0 auto;
 }
+.container1 {
+    display: flex;
+    flex-direction: row;
+    
+}
 
 main{
     max-width: 1300px;
@@ -134,4 +139,180 @@ main{
     width:100%;
     height: 120px;
     border-radius: 20px;
+}
+
+main .banner {
+    margin: 768px;
+    padding: 500px 10px;
+}
+
+.gallery1 {
+    display: flex;
+    justify-content: center;
+    max-width: 786px;
+    width: 200px;
+    padding: 50px;
+    background: #ffffff;
+
+}
+
+.content  img{
+    width: 220px;
+    height: 220px;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: flex-start;
+    background: #111;
+    border-radius: 20px;
+    
+}
+
+
+.cards5 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5);
+    width: 120px;
+    height: 20px;
+}
+
+
+.banner_container img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height: 120px;
+    border-radius: 20px;
+}
+
+main .banner {
+    margin: 768px;
+    padding: 500px 10px;
+}
+
+.gallery2 {
+    display: flex;
+    justify-content: center;
+    max-width: 786px;
+    width: 200px;
+    padding: 50px;
+    background: #ffffff;
+
+}
+
+.content  img{
+    width: 220px;
+    height: 220px;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: flex-start;
+    background: #111;
+    border-radius: 20px;
+    
+}
+
+
+.cards5 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5);
+    width: 120px;
+    height: 20px;
+}
+
+.banner_container img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height: 120px;
+    border-radius: 20px;
+}
+
+main .banner {
+    margin: 768px;
+    padding: 500px 10px;
+}
+
+.gallery3 {
+    display: flex;
+    justify-content: center;
+    max-width: 786px;
+    width: 200px;
+    padding: 50px;
+    background: #ffffff;
+
+}
+
+.content  img{
+    width: 220px;
+    height: 220px;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: flex-start;
+    background: #111;
+    border-radius: 20px;
+    
+}
+
+
+.cards5 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5);
+    width: 120px;
+    height: 20px;
+}
+
+.banner_container img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    height: 120px;
+    border-radius: 20px;
+}
+
+main .banner {
+    margin: 768px;
+    padding: 500px 10px;
+}
+
+.gallery4 {
+    display: flex;
+    justify-content: center;
+    max-width: 786px;
+    width: 200px;
+    padding: 50px;
+    background: #ffffff;
+
+}
+
+.content  img{
+    width: 220px;
+    height: 220px;
+    padding: 40px 20px;
+    display: flex;
+    justify-content: flex-start;
+    background: #111;
+    border-radius: 20px;
+    
+}
+
+
+.cards5 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5);
+    width: 120px;
+    height: 20px;
 }
